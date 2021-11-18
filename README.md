@@ -1,6 +1,7 @@
 ### Olá <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" style="max-width: 100%;"></a>, me chamo Weslley e seja bem vindo ao meu perfil.
 
 - 🖥️ Desenvolvedor Full stack
+- 👨‍🎓 Esutando atualmente: TDD, testes unitários e testes de integração.
 - 📧 Contate-me no email: weslleyadesousa@gmail.com
 
 <h2>🛠️ Tecnologias</h2>
