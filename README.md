@@ -2,7 +2,7 @@
 
 **Backend Developer | IA Aplicada | Python & Laravel**
 
-Desenvolvedor Backend com 5+ anos de experiência construindo plataformas de impacto nacional. Especialista em integrar IA em produtos reais — de Visão Computacional a pipelines generativos com LLMs. Atualmente liderando a Tribo de IA no SENAI Soluções Digitais.
+Desenvolvedor Backend com 5+ anos de experiência construindo plataformas de impacto nacional. Integro IA em produtos reais, de Visão Computacional a pipelines generativos com LLMs. Atualmente liderando a Tribo de IA no SENAI Soluções Digitais.
 
 🌍 Rio de Janeiro, RJ · 🔗 [we2l.github.io](https://we2l.github.io)
 
@@ -13,7 +13,7 @@ Desenvolvedor Backend com 5+ anos de experiência construindo plataformas de imp
 - 🤖 Produtos de IA em produção (agentes autônomos, RAG, LLMs)
 - 👁️ Visão Computacional com YOLOv8 + Gemini
 - 🏗️ Arquiteturas escaláveis com DDD, mensageria e microsserviços
-- 💼 Empreendo: criei o [Firmou](https://firmou.app.br), SaaS de contratos com IA
+- 💼 Criador do [Firmou](https://firmou.app.br), SaaS de contratos com IA
 
 ---
 
