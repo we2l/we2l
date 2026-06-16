@@ -1,25 +1,39 @@
-### Olá <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" style="max-width: 100%;"></a>, me chamo Weslley e seja bem vindo ao meu perfil.
+# Olá, eu sou o Weslley Leite 👋
 
-- 🖥️ Desenvolvedor Full stack
-- 👨‍🎓 Estudando atualmente: TDD, testes unitários e testes de integração.
-- 📧 Contate-me no email: weslleyadesousa@gmail.com
+**Backend Developer | IA Aplicada | Python & Laravel**
 
-<h2>🛠️ Tecnologias</h2>
-<div style="display:inline-block">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- </div>
- 
- <h2>👨 Rede Social</h2>
- <div style="display:inline-block">
-  <a href="https://www.linkedin.com/in/weslley-leite/" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+Desenvolvedor Backend com 5+ anos de experiência construindo plataformas de impacto nacional. Especialista em integrar IA em produtos reais — de Visão Computacional a pipelines generativos com LLMs. Atualmente liderando a Tribo de IA no SENAI Soluções Digitais.
 
- </div>
+🌍 Rio de Janeiro, RJ · 🔗 [we2l.github.io](https://we2l.github.io)
+
+---
+
+### 🚀 O que eu faço
+
+- 🤖 Produtos de IA em produção (agentes autônomos, RAG, LLMs)
+- 👁️ Visão Computacional com YOLOv8 + Gemini
+- 🏗️ Arquiteturas escaláveis com DDD, mensageria e microsserviços
+- 💼 Empreendo: criei o [Firmou](https://firmou.app.br), SaaS de contratos com IA
+
+---
+
+### 🛠️ Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslley-leite/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:weslleyadesousa@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=github&logoColor=white)](https://we2l.github.io)
